@@ -8,7 +8,3 @@ func main() {
 	hand1.print()
 	hand2.print()
 }
-
-func newCard() string {
-	return "Five of Diamonds"
-}
